@@ -1,3 +1,5 @@
+autoviz
+IPython
 matplotlib
 plotly
-autoviz
+pandas
