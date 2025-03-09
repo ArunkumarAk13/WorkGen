@@ -1,5 +1,11 @@
 autoviz
-IPython
 matplotlib
 plotly
 pandas
+seaborn
+numpy
+scipy
+scikit-learn
+xlrd
+openpyxl
+IPython
