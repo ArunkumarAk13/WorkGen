@@ -69,7 +69,8 @@ def landing_page():
     st.title("WorkGEN")
     st.subheader("A Real-Time Data Insight Platform")
     st.write("**Workforce Analytics and People Management** helps you gain insights into your workforce data with interactive visualizations and automated analysis.")
-    st.image("https://i.pinimg.com/originals/00/08/10/00081094ea8cf521ccebe03095ac0365.gif", caption="Analyze Your Workforce Effectively", use_column_width=True)
+    st.image("https://i.pinimg.com/originals/00/08/10/00081094ea8cf521ccebe03095ac0365.gif", caption="Analyze Your Workforce Effectively", use_container_width=True
+)
     st.markdown("### Key Features:\n- Upload CSV or Excel files with your workforce data.\n- Perform automated Exploratory Data Analysis (EDA).\n- Interactive visualizations like Bar Charts, Donut Charts, Bubble Charts, and Pie Charts.")
 
 def upload_and_preview():
