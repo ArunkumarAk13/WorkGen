@@ -1,7 +1,7 @@
-autoviz
+streamlit
+pandas
 matplotlib
 plotly
-pandas
 seaborn
 numpy
 scipy
@@ -9,3 +9,5 @@ scikit-learn
 xlrd
 openpyxl
 IPython
+autoviz
+xgboost
